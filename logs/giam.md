@@ -5,7 +5,11 @@ Moving forward with the approach.
 Next steps, organize work tasks and assigning to team.
 Updating project Charter. 
 
-
 8/16/2020 – Giam Sigaud
 Sunday 8.16.2020 Studied with TeamAwesome, but focused on completing the Pandas API Homework.  
 Trying to finalize all HW Monday so can turn full attention to project Monday afternoon.
+
+8/17/2020 – Giam Sigaud
+Monday 8.17.2020 Studied with TeamAwesome, completed the Pandas API Homework.  
+Finalized all HW Monday night.
+Turning full attention to project Tuesday.
