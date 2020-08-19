@@ -11,3 +11,9 @@ worked on project timeline
 Met with and completed Pandas API homework my team
 calculated quartiles in excel to divide states into groups for specific analysis
 met with group to select specific states for deep dive analysis
+
+
+### 08/18/2020
+Worked on project in class
+Narrowed focus and came up with questions to answer
+Divided up work
