@@ -14,16 +14,11 @@ Monday 8.17.2020 Studied with TeamAwesome, completed the Pandas API Homework.
 Finalized all HW Monday night.
 Turning full attention to project Tuesday.
 
-<<<<<<< HEAD
-8/18/2020 - Giam Sigaud Tuesday 8.18.2020 In class dimensioning of project question, approach, work tasks, and team distribution of work.
-
-8/19/2020 - Giam Sigaud Wednesday 8.19.2020 Beginning first full day of project work. Planning to finalize Tuesday project outline, organize work tasks and distribution, assign work, and begin work on my assigned work.
-
-8/19/2020 - Giam Sigaud Wed 8.19.2020 Organized project, re-worked Charter. Meeting with team at 7p cst. Will present approach for sign off. Leo met up with me for a couple of hours and we designed the approach together.
-=======
-8/18/2020 - Giam Sigaud
+8/18/2020 - Giam Sigaud 
 Tuesday 8.18.2020 In class dimensioning of project question, approach, work tasks, and team distribution of work.
 
-8/19/2020 - Giam Sigaud
-Wednesday 8.19.2020 Beginning first full day of project work.  Planning to finalize Tuesday project outline, organize work tasks and distribution, assign work, and begin work on my assigned work.
->>>>>>> f8120778d4b4d0fae9f6f4da62ef8f3290554394
+8/19/2020 - Giam Sigaud 
+Wednesday 8.19.2020 Beginning first full day of project work. Planning to finalize Tuesday project outline, organize work tasks and distribution, assign work, and begin work on my assigned work.
+
+8/19/2020 - Giam Sigaud 
+Wed 8.19.2020 Organized project, re-worked Charter. Meeting with team at 7p cst. Will present approach for sign off. Leo met up with me for a couple of hours and we designed the approach together.
