@@ -17,3 +17,9 @@ met with group to select specific states for deep dive analysis
 Worked on project in class
 Narrowed focus and came up with questions to answer
 Divided up work
+
+### 08/19/2020
+Finalized Project Charter
+Narrowed down data sources for team
+Assigned work
+
