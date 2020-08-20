@@ -22,3 +22,6 @@ Wednesday 8.19.2020 Beginning first full day of project work. Planning to finali
 
 8/19/2020 - Giam Sigaud 
 Wed 8.19.2020 Organized project, re-worked Charter. Meeting with team at 7p cst. Will present approach for sign off. Leo met up with me for a couple of hours and we designed the approach together.
+
+8/20/2020 - Giam Sigaud
+Thu 8.20.20 Working on my team assignment.  Starting with Pseudocoding the whole thing.  Hoping to have finalized approach created by start of class, then execute coding during class.
