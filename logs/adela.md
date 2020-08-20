@@ -10,4 +10,4 @@ Worked on HW and discussed project details.
 
 ### 08/19/20
 
-Assigned work and reviewed data
+Assigned work and reviewed data. Worked on presentation.
