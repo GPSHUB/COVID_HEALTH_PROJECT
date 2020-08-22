@@ -27,5 +27,7 @@ Wed 8.19.2020 Organized project, re-worked Charter. Meeting with team at 7p cst.
 Thu 8.20.20 Working on my team assignment.  Starting with Pseudocoding the whole thing.  Hoping to have finalized approach created by start of class, then execute coding during class.
 
 8/21/2020 - Giam Sigaud
-Thu 8.21.20 Working on my team assignment.  Started writing code finally. Working on my piece unemployment vs covid & vs mental health. Want to be done today, so can focus on Saturday team meeting and presentation work.
+Fri 8.21.20 Working on my team assignment.  Started writing code finally. Working on my piece unemployment vs covid & vs mental health. Want to be done today, so can focus on Saturday team meeting and presentation work.
 
+8.22.20 - Giam Sigaud
+Sat 8.22.20 Project work for Team Project 1.  
