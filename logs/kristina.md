@@ -33,6 +33,8 @@ Helped Giam with timedate conversions, we are so close!
 
 
 ### 08/21/2020
+Noticed issues with Giam's regression line, diagnosed the issues
 Worked on cleaning up my data and merging data sets
 Helped Leo with cleaning up data, merging data sets and getting his line graph working
+
 
