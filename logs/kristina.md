@@ -38,3 +38,8 @@ Worked on cleaning up my data and merging data sets
 Helped Leo with cleaning up data, merging data sets and getting his line graph working
 
 
+### 08/22/2020
+Worked on scatter plot and regression line.
+Cleaned up data that was causing a graphing issue. 
+
+
