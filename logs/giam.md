@@ -31,3 +31,6 @@ Fri 8.21.20 Working on my team assignment.  Started writing code finally. Workin
 
 8.22.20 - Giam Sigaud
 Sat 8.22.20 Project work for Team Project 1.  
+
+8.23.20 - Giam Sigaud
+Sun 8.23.20 Finished Unemployment vs Baseline by State.  Working on UI vs Anxiety & Dep. Then moving to UI vs COVID via API.

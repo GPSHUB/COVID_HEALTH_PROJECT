@@ -1,0 +1,187 @@
+State,Weeknum,Insured Unemployment Rate
+California,1,2.06
+California,2,2.18
+California,3,1.95
+California,4,2.25
+California,5,2.08
+California,6,2.17
+California,7,2.02
+California,8,2.14
+California,9,2.19
+California,10,2.04
+California,11,2.44
+California,12,2.32
+California,13,6.24
+California,14,8.25
+California,15,13.98
+California,16,10.89
+California,17,27.75
+California,18,16.45
+California,19,20.57
+California,20,12.44
+California,21,15.88
+California,22,16.23
+California,23,17.32
+California,24,16.04
+California,25,16.74
+California,26,15.92
+California,27,16.94
+California,28,15.55
+California,29,18.05
+California,30,16.03
+California,31,17.02
+Florida,1,0.41
+Florida,2,0.4
+Florida,3,0.39
+Florida,4,0.42
+Florida,5,0.39
+Florida,6,0.4
+Florida,7,0.39
+Florida,8,0.39
+Florida,9,0.37
+Florida,10,0.37
+Florida,11,0.39
+Florida,12,0.41
+Florida,13,1.15
+Florida,14,3.95
+Florida,15,2.06
+Florida,16,6.29
+Florida,17,5.17
+Florida,18,12.05
+Florida,19,25.04
+Florida,20,6.16
+Florida,21,7.34
+Florida,22,11.25
+Florida,23,10.71
+Florida,24,11.59
+Florida,25,8.63
+Florida,26,6.77
+Florida,27,10.48
+Florida,28,8.57
+Florida,29,7.91
+Florida,30,7.23
+Florida,31,6.5
+Georgia,1,1.09
+Georgia,2,0.73
+Georgia,3,0.66
+Georgia,4,0.65
+Georgia,5,0.62
+Georgia,6,0.62
+Georgia,7,0.62
+Georgia,8,0.62
+Georgia,9,0.57
+Georgia,10,0.58
+Georgia,11,0.63
+Georgia,12,2.47
+Georgia,13,8.23
+Georgia,14,13.57
+Georgia,15,13.94
+Georgia,16,17.29
+Georgia,17,20.18
+Georgia,18,18.52
+Georgia,19,18.01
+Georgia,20,16.67
+Georgia,21,17.2
+Georgia,22,15.91
+Georgia,23,15.55
+Georgia,24,15.26
+Georgia,25,15.07
+Georgia,26,14.13
+Georgia,27,17.99
+Georgia,28,15.96
+Georgia,29,14.45
+Georgia,30,14.39
+Georgia,31,12.99
+Maryland,1,1.23
+Maryland,2,1.15
+Maryland,3,1.15
+Maryland,4,1.17
+Maryland,5,1.15
+Maryland,6,1.15
+Maryland,7,1.14
+Maryland,8,1.11
+Maryland,9,1.1
+Maryland,10,1.06
+Maryland,11,1.04
+Maryland,12,1.88
+Maryland,13,3.61
+Maryland,14,6.3
+Maryland,15,7.88
+Maryland,16,8.78
+Maryland,17,8.89
+Maryland,18,9.97
+Maryland,19,9.92
+Maryland,20,9.99
+Maryland,21,9.66
+Maryland,22,9.68
+Maryland,23,9.81
+Maryland,24,9.56
+Maryland,25,9.14
+Maryland,26,9.66
+Maryland,27,9.18
+Maryland,28,9.1
+Maryland,29,8.58
+Maryland,30,7.97
+Maryland,31,7.62
+South Dakota,1,0.71
+South Dakota,2,0.72
+South Dakota,3,0.74
+South Dakota,4,0.76
+South Dakota,5,0.75
+South Dakota,6,0.77
+South Dakota,7,0.76
+South Dakota,8,0.75
+South Dakota,9,0.73
+South Dakota,10,0.69
+South Dakota,11,0.64
+South Dakota,12,0.85
+South Dakota,13,1.81
+South Dakota,14,3.45
+South Dakota,15,4.7
+South Dakota,16,5.43
+South Dakota,17,5.69
+South Dakota,18,5.6
+South Dakota,19,6.03
+South Dakota,20,5.37
+South Dakota,21,4.7
+South Dakota,22,4.92
+South Dakota,23,4.46
+South Dakota,24,4.11
+South Dakota,25,4.1
+South Dakota,26,3.81
+South Dakota,27,4.47
+South Dakota,28,3.96
+South Dakota,29,3.74
+South Dakota,30,3.69
+South Dakota,31,3.51
+Texas,1,1.15
+Texas,2,1.19
+Texas,3,1.08
+Texas,4,1.15
+Texas,5,1.05
+Texas,6,1.09
+Texas,7,1.04
+Texas,8,1.09
+Texas,9,1.02
+Texas,10,1.05
+Texas,11,1.03
+Texas,12,1.18
+Texas,13,3.06
+Texas,14,5.14
+Texas,15,7.41
+Texas,16,7.82
+Texas,17,9.21
+Texas,18,9.6
+Texas,19,10.57
+Texas,20,10.34
+Texas,21,11.39
+Texas,22,9.88
+Texas,23,10.54
+Texas,24,9.93
+Texas,25,10.58
+Texas,26,10.06
+Texas,27,10.61
+Texas,28,10.08
+Texas,29,10.82
+Texas,30,9.93
+Texas,31,9.87
