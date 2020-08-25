@@ -57,3 +57,10 @@ Helped Adela and Giam with coding a 2nd y axis label
 Assembled slides and began presentation cleanup
 
 
+### 08/25/2020
+QC's and made notes for group on changes for presentation with Giam
+Edited slides for consistency. Added updated slides.
+Finalized presentation
+PRESENTATION DAY
+
+
