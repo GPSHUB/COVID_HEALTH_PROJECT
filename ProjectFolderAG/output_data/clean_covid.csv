@@ -1,4 +1,4 @@
-Date,State,Positive,Positive Increase,Death Increase,Death Confirmed,Death Probable,Hospitalized,Negative,Recovered,Total,Total Test Results,Date Format,weeknum
+Date,State,Positive,Positive Increase,Death Increase,Death Confirmed,Death Probable,Hospitalized,Negative,Recovered,Total,Total Test Results,Date Format,Weeknum
 20200824,CA,668615.0,4946.0,18.0,12152.0,,,9983872.0,,10652487.0,10652487.0,2020-08-24,35
 20200823,CA,663669.0,6777.0,146.0,12134.0,,,9877362.0,,10541031.0,10541031.0,2020-08-23,34
 20200822,CA,656892.0,6556.0,167.0,11988.0,,,9779460.0,,10436352.0,10436352.0,2020-08-22,34
