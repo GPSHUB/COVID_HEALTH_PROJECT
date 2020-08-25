@@ -31,3 +31,7 @@ Worked with Kristina on starting PowerPoint presentation.
 ### 08/24/2020
 
 Worked with team to finalize the presentation.
+
+### 08/25/2020
+
+Worked on scatter plots and presentation.
