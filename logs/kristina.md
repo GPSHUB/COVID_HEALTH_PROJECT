@@ -43,3 +43,17 @@ Worked on scatter plot and regression line.
 Cleaned up data that was causing a graphing issue. 
 
 
+### 08/23/2020
+Adela and I started a skeleton powerpoint
+worked on code for project
+helped out other team members
+met as a group to plan out next steps
+
+
+### 08/24/2020
+FINISHED CODE!!! 
+Figured out how to export out my maps
+Helped Adela and Giam with coding a 2nd y axis label
+Assembled slides and began presentation cleanup
+
+
