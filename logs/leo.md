@@ -17,3 +17,14 @@ Turning full attention to project.
 ###  08/19/2020
 Discussed with Team Awesome and reviewed all API's and determined how the presentation will be completed.  Also looked at plan of attack and narrowed 
 down resources and assigned work.  Reviewed data and discussed further activities.  
+
+###  08/20/2020
+Discovered baseline data for Anxiety varible. Created new Jupyter Notebook and began to build code and work with team members to develop plan to merge 
+work assignments.   
+
+###  08/22/2020
+Delivered Jupyter Notebook with code of graphs detailing anxiety levels during COVID19 period. Saved work to repository branch for future merge to master.  
+
+### 08/23/2020
+Delivered 2 Jupyter Notebooks with completed code of graphs for anxiety ans depression levels during COVID19 period.  Saved work to repository
+and ready to merge all final work to master.  Also ready to copy/paste all relevant work to PowerPoint file and finalize presentation.  

@@ -38,3 +38,29 @@ Worked on cleaning up my data and merging data sets
 Helped Leo with cleaning up data, merging data sets and getting his line graph working
 
 
+### 08/22/2020
+Worked on scatter plot and regression line.
+Cleaned up data that was causing a graphing issue. 
+
+
+### 08/23/2020
+Adela and I started a skeleton powerpoint
+worked on code for project
+helped out other team members
+met as a group to plan out next steps
+
+
+### 08/24/2020
+FINISHED CODE!!! 
+Figured out how to export out my maps
+Helped Adela and Giam with coding a 2nd y axis label
+Assembled slides and began presentation cleanup
+
+
+### 08/25/2020
+QC's and made notes for group on changes for presentation with Giam
+Edited slides for consistency. Added updated slides.
+Finalized presentation
+PRESENTATION DAY
+
+
