@@ -1,0 +1,259 @@
+State,Weeknum,Insured Unemployment Rate,Report,Value
+California,1,2.06,Unemployment,
+California,2,2.18,Unemployment,
+California,3,1.95,Unemployment,
+California,4,2.25,Unemployment,
+California,5,2.08,Unemployment,
+California,6,2.17,Unemployment,
+California,7,2.02,Unemployment,
+California,8,2.14,Unemployment,
+California,9,2.19,Unemployment,
+California,10,2.04,Unemployment,
+California,11,2.44,Unemployment,
+California,12,2.32,Unemployment,
+California,13,6.24,Unemployment,
+California,14,8.25,Unemployment,
+California,15,13.98,Unemployment,
+California,16,10.89,Unemployment,
+California,17,27.75,Unemployment,
+California,18,16.45,Unemployment,
+California,19,20.57,Unemployment,
+California,20,12.44,Unemployment,
+California,21,15.88,Unemployment,
+California,22,16.23,Unemployment,
+California,23,17.32,Unemployment,
+California,24,16.04,Unemployment,
+California,25,16.74,Unemployment,
+California,26,15.92,Unemployment,
+California,27,16.94,Unemployment,
+California,28,15.55,Unemployment,
+California,29,18.05,Unemployment,
+California,30,16.03,Unemployment,
+California,31,17.02,Unemployment,
+Florida,1,0.41,Unemployment,
+Florida,2,0.4,Unemployment,
+Florida,3,0.39,Unemployment,
+Florida,4,0.42,Unemployment,
+Florida,5,0.39,Unemployment,
+Florida,6,0.4,Unemployment,
+Florida,7,0.39,Unemployment,
+Florida,8,0.39,Unemployment,
+Florida,9,0.37,Unemployment,
+Florida,10,0.37,Unemployment,
+Florida,11,0.39,Unemployment,
+Florida,12,0.41,Unemployment,
+Florida,13,1.15,Unemployment,
+Florida,14,3.95,Unemployment,
+Florida,15,2.06,Unemployment,
+Florida,16,6.29,Unemployment,
+Florida,17,5.17,Unemployment,
+Florida,18,12.05,Unemployment,
+Florida,19,25.04,Unemployment,
+Florida,20,6.16,Unemployment,
+Florida,21,7.34,Unemployment,
+Florida,22,11.25,Unemployment,
+Florida,23,10.71,Unemployment,
+Florida,24,11.59,Unemployment,
+Florida,25,8.63,Unemployment,
+Florida,26,6.77,Unemployment,
+Florida,27,10.48,Unemployment,
+Florida,28,8.57,Unemployment,
+Florida,29,7.91,Unemployment,
+Florida,30,7.23,Unemployment,
+Florida,31,6.5,Unemployment,
+Georgia,1,1.09,Unemployment,
+Georgia,2,0.73,Unemployment,
+Georgia,3,0.66,Unemployment,
+Georgia,4,0.65,Unemployment,
+Georgia,5,0.62,Unemployment,
+Georgia,6,0.62,Unemployment,
+Georgia,7,0.62,Unemployment,
+Georgia,8,0.62,Unemployment,
+Georgia,9,0.57,Unemployment,
+Georgia,10,0.58,Unemployment,
+Georgia,11,0.63,Unemployment,
+Georgia,12,2.47,Unemployment,
+Georgia,13,8.23,Unemployment,
+Georgia,14,13.57,Unemployment,
+Georgia,15,13.94,Unemployment,
+Georgia,16,17.29,Unemployment,
+Georgia,17,20.18,Unemployment,
+Georgia,18,18.52,Unemployment,
+Georgia,19,18.01,Unemployment,
+Georgia,20,16.67,Unemployment,
+Georgia,21,17.2,Unemployment,
+Georgia,22,15.91,Unemployment,
+Georgia,23,15.55,Unemployment,
+Georgia,24,15.26,Unemployment,
+Georgia,25,15.07,Unemployment,
+Georgia,26,14.13,Unemployment,
+Georgia,27,17.99,Unemployment,
+Georgia,28,15.96,Unemployment,
+Georgia,29,14.45,Unemployment,
+Georgia,30,14.39,Unemployment,
+Georgia,31,12.99,Unemployment,
+Maryland,1,1.23,Unemployment,
+Maryland,2,1.15,Unemployment,
+Maryland,3,1.15,Unemployment,
+Maryland,4,1.17,Unemployment,
+Maryland,5,1.15,Unemployment,
+Maryland,6,1.15,Unemployment,
+Maryland,7,1.14,Unemployment,
+Maryland,8,1.11,Unemployment,
+Maryland,9,1.1,Unemployment,
+Maryland,10,1.06,Unemployment,
+Maryland,11,1.04,Unemployment,
+Maryland,12,1.88,Unemployment,
+Maryland,13,3.61,Unemployment,
+Maryland,14,6.3,Unemployment,
+Maryland,15,7.88,Unemployment,
+Maryland,16,8.78,Unemployment,
+Maryland,17,8.89,Unemployment,
+Maryland,18,9.97,Unemployment,
+Maryland,19,9.92,Unemployment,
+Maryland,20,9.99,Unemployment,
+Maryland,21,9.66,Unemployment,
+Maryland,22,9.68,Unemployment,
+Maryland,23,9.81,Unemployment,
+Maryland,24,9.56,Unemployment,
+Maryland,25,9.14,Unemployment,
+Maryland,26,9.66,Unemployment,
+Maryland,27,9.18,Unemployment,
+Maryland,28,9.1,Unemployment,
+Maryland,29,8.58,Unemployment,
+Maryland,30,7.97,Unemployment,
+Maryland,31,7.62,Unemployment,
+South Dakota,1,0.71,Unemployment,
+South Dakota,2,0.72,Unemployment,
+South Dakota,3,0.74,Unemployment,
+South Dakota,4,0.76,Unemployment,
+South Dakota,5,0.75,Unemployment,
+South Dakota,6,0.77,Unemployment,
+South Dakota,7,0.76,Unemployment,
+South Dakota,8,0.75,Unemployment,
+South Dakota,9,0.73,Unemployment,
+South Dakota,10,0.69,Unemployment,
+South Dakota,11,0.64,Unemployment,
+South Dakota,12,0.85,Unemployment,
+South Dakota,13,1.81,Unemployment,
+South Dakota,14,3.45,Unemployment,
+South Dakota,15,4.7,Unemployment,
+South Dakota,16,5.43,Unemployment,
+South Dakota,17,5.69,Unemployment,
+South Dakota,18,5.6,Unemployment,
+South Dakota,19,6.03,Unemployment,
+South Dakota,20,5.37,Unemployment,
+South Dakota,21,4.7,Unemployment,
+South Dakota,22,4.92,Unemployment,
+South Dakota,23,4.46,Unemployment,
+South Dakota,24,4.11,Unemployment,
+South Dakota,25,4.1,Unemployment,
+South Dakota,26,3.81,Unemployment,
+South Dakota,27,4.47,Unemployment,
+South Dakota,28,3.96,Unemployment,
+South Dakota,29,3.74,Unemployment,
+South Dakota,30,3.69,Unemployment,
+South Dakota,31,3.51,Unemployment,
+Texas,1,1.15,Unemployment,
+Texas,2,1.19,Unemployment,
+Texas,3,1.08,Unemployment,
+Texas,4,1.15,Unemployment,
+Texas,5,1.05,Unemployment,
+Texas,6,1.09,Unemployment,
+Texas,7,1.04,Unemployment,
+Texas,8,1.09,Unemployment,
+Texas,9,1.02,Unemployment,
+Texas,10,1.05,Unemployment,
+Texas,11,1.03,Unemployment,
+Texas,12,1.18,Unemployment,
+Texas,13,3.06,Unemployment,
+Texas,14,5.14,Unemployment,
+Texas,15,7.41,Unemployment,
+Texas,16,7.82,Unemployment,
+Texas,17,9.21,Unemployment,
+Texas,18,9.6,Unemployment,
+Texas,19,10.57,Unemployment,
+Texas,20,10.34,Unemployment,
+Texas,21,11.39,Unemployment,
+Texas,22,9.88,Unemployment,
+Texas,23,10.54,Unemployment,
+Texas,24,9.93,Unemployment,
+Texas,25,10.58,Unemployment,
+Texas,26,10.06,Unemployment,
+Texas,27,10.61,Unemployment,
+Texas,28,10.08,Unemployment,
+Texas,29,10.82,Unemployment,
+Texas,30,9.93,Unemployment,
+Texas,31,9.87,Unemployment,
+California,17,,Anxiety & Depression,31.2
+California,19,,Anxiety & Depression,29.53333333333333
+California,20,,Anxiety & Depression,33.266666666666666
+California,21,,Anxiety & Depression,31.166666666666668
+California,22,,Anxiety & Depression,33.1
+California,23,,Anxiety & Depression,34.0
+California,24,,Anxiety & Depression,32.93333333333334
+California,25,,Anxiety & Depression,33.300000000000004
+California,26,,Anxiety & Depression,32.63333333333333
+California,27,,Anxiety & Depression,33.300000000000004
+California,28,,Anxiety & Depression,38.46666666666667
+California,29,,Anxiety & Depression,38.06666666666666
+Florida,17,,Anxiety & Depression,30.633333333333336
+Florida,19,,Anxiety & Depression,28.666666666666668
+Florida,20,,Anxiety & Depression,28.666666666666668
+Florida,21,,Anxiety & Depression,33.93333333333334
+Florida,22,,Anxiety & Depression,34.46666666666667
+Florida,23,,Anxiety & Depression,35.233333333333334
+Florida,24,,Anxiety & Depression,35.766666666666666
+Florida,25,,Anxiety & Depression,33.93333333333333
+Florida,26,,Anxiety & Depression,37.766666666666666
+Florida,27,,Anxiety & Depression,35.9
+Florida,28,,Anxiety & Depression,38.1
+Florida,29,,Anxiety & Depression,35.43333333333333
+Georgia,17,,Anxiety & Depression,31.233333333333334
+Georgia,19,,Anxiety & Depression,29.8
+Georgia,20,,Anxiety & Depression,28.666666666666668
+Georgia,21,,Anxiety & Depression,32.6
+Georgia,22,,Anxiety & Depression,30.366666666666664
+Georgia,23,,Anxiety & Depression,31.333333333333332
+Georgia,24,,Anxiety & Depression,32.03333333333333
+Georgia,25,,Anxiety & Depression,32.266666666666666
+Georgia,26,,Anxiety & Depression,36.36666666666667
+Georgia,27,,Anxiety & Depression,32.53333333333333
+Georgia,28,,Anxiety & Depression,36.56666666666666
+Georgia,29,,Anxiety & Depression,35.06666666666667
+Maryland,17,,Anxiety & Depression,27.166666666666668
+Maryland,19,,Anxiety & Depression,29.76666666666667
+Maryland,20,,Anxiety & Depression,27.26666666666667
+Maryland,21,,Anxiety & Depression,26.76666666666667
+Maryland,22,,Anxiety & Depression,26.266666666666666
+Maryland,23,,Anxiety & Depression,22.7
+Maryland,24,,Anxiety & Depression,33.6
+Maryland,25,,Anxiety & Depression,28.46666666666667
+Maryland,26,,Anxiety & Depression,28.400000000000002
+Maryland,27,,Anxiety & Depression,30.26666666666667
+Maryland,28,,Anxiety & Depression,28.566666666666663
+Maryland,29,,Anxiety & Depression,34.0
+South Dakota,17,,Anxiety & Depression,21.733333333333334
+South Dakota,19,,Anxiety & Depression,25.46666666666667
+South Dakota,20,,Anxiety & Depression,24.266666666666666
+South Dakota,21,,Anxiety & Depression,30.833333333333332
+South Dakota,22,,Anxiety & Depression,25.333333333333332
+South Dakota,23,,Anxiety & Depression,25.53333333333333
+South Dakota,24,,Anxiety & Depression,23.900000000000002
+South Dakota,25,,Anxiety & Depression,25.633333333333336
+South Dakota,26,,Anxiety & Depression,30.5
+South Dakota,27,,Anxiety & Depression,31.066666666666666
+South Dakota,28,,Anxiety & Depression,30.46666666666667
+South Dakota,29,,Anxiety & Depression,30.2
+Texas,17,,Anxiety & Depression,29.666666666666668
+Texas,19,,Anxiety & Depression,31.333333333333332
+Texas,20,,Anxiety & Depression,29.5
+Texas,21,,Anxiety & Depression,33.03333333333334
+Texas,22,,Anxiety & Depression,31.399999999999995
+Texas,23,,Anxiety & Depression,34.300000000000004
+Texas,24,,Anxiety & Depression,34.199999999999996
+Texas,25,,Anxiety & Depression,31.3
+Texas,26,,Anxiety & Depression,34.93333333333333
+Texas,27,,Anxiety & Depression,36.06666666666666
+Texas,28,,Anxiety & Depression,39.56666666666667
+Texas,29,,Anxiety & Depression,38.36666666666667
